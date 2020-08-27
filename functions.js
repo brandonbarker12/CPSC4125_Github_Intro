@@ -22,6 +22,30 @@ $(document).ready(function() {
 
     //string, number, array[], json{}
 
+    //array[]
+    //sort, forEach, push, pop, shift
+
+    var xkcdJson = {title: "Standard Model Changes",
+                    day: "26"}
+    var xcdDay = xkcdJson.day
+
+    //GET, PUT, POST, DELETE | CREATE, RETRIEVE, UPDATE, DELETE (CRUD)
+
+    for(var i =0; i < something; i++){
+        
+    }
+    something.forEach()
+
+    function firstFunction(variables){
+        //process input
+        return variables + 1;        
+        //return something
+    }
+
+    Promise(function(){
+        setTimeout(x);
+        //what you're waiting on
+    })
 
 
 });
